@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276618928937",
+    "project_id": "hazard-aware-36bae",
+    "storage_bucket": "hazard-aware-36bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276618928937:android:241c18e8551c49caee0d38",
+        "android_client_info": {
+          "package_name": "com.example.hazard_aware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQx5mlbnRspuFToor2Ah1ux5N9zX7RUns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
