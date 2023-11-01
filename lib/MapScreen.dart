@@ -108,7 +108,7 @@ class _MapWidgetState extends State<MapWidget> {
       children: [
         TileLayer(
           urlTemplate:
-              'https://api.mapbox.com/styles/v1/15kc25/clni69zw6000a01oi50l3cn48/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiMTVrYzI1IiwiYSI6ImNsbmd6czRnbDBidXUybW1qcjJiYXJuNGQifQ.Q8r7YIZjYlp2ujJ29T8c6g',
+              'MAP_BOX_API_URL',
           userAgentPackageName: 'com.example.hazard_aware',
         ),
         MarkerLayer(
